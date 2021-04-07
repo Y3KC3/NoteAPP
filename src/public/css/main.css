@@ -1,0 +1,6 @@
+body{
+    background: #e65c00;
+    background: -webkit-linear-gradient(to left, #F9D423, #e65c00);
+    background: linear-gradient(to left, #F9D423, #e65c00); 
+    overflow-x: hidden;
+}
